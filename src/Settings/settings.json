@@ -1,0 +1,80 @@
+{
+
+    "bot": {
+        "Authors": "928360020876341288",
+        "token": "OTMwMTUyMzUwMjM5MzA1Nmz3.Ydxt4Q.b4kt0k3n14ld1nk4nk4-j4l1x",
+        "MongoURL": "mongogirknk",
+        "DatabaseName": "sunucudatabasenamesi",
+        "botstatus": "botundurumu Jalix kalp Poliana gibi",
+        "ServerID": "sunucu id",
+        "tag": "sunucu tag yıldız msla",
+        "untag": "tagsız kayıt yapılınca yanda durcak tag",
+        "serverlink": "discord.gg/jalix",
+        "servername": "DARK PARADİSE gibi"
+              },
+
+    "channels": {
+        "globalchat": ["general chat"],
+        "botcmdchat": ["bot komut"],
+        "sad": ["burası boş ayar çekmedim"],
+         "asdas": ["burasıda boş"]
+            },
+    
+    "ytrole": {
+        "fullyetki": ["full yetkili rol"],
+        "banhammers": ["","",""],//anlatamam gerek yok heralde aq ban atabilcek roller
+        "mutehammers": [""],// aynı şekil mute
+        "jailhammers": [""],// buda jail için
+        "transporthammer": [""]// çekip taşıyıcak roller
+
+    },
+
+    "sorumlulukrole": {
+        "chatsorumlusu": ""// chat sorumlusu
+    },
+
+    "role": {
+        "family": "",//taglı rolü
+        "booster": "",//booster rol
+        "vip": "",// vip rol
+        "yönetici": "",//bot üstü
+        "yönetici2": "",//bot permi
+        "yönetici3": "",//bot altı yönetici
+        "xxxjalixbunucozcek": "",//öylesine koydum
+        "kurucuid": ""//owner role id
+    },
+
+    "registerrole": {
+        "kayıtsız": [""],//unregister rolü işt
+        "registeryt": [""],//kayıt yapabilcek roller
+        "erkek": [""],//erkek rolleri
+        "kadın": [""]//kadın rolleri
+    },
+
+    "cezarole": {
+        "yasaklıtag": "", //hepsinin yanında yazıo zaten
+        "karantina": "",
+        "şüpheli": "",
+        "chatmuted": "",
+        "vmuted": ""
+    },
+
+    "logchannels": {
+        "rolelog": "",//yazıo işte amq
+        "commandlog": "",
+        "taglog": "",
+        "chatmuted": ""
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}

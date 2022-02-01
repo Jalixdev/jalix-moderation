@@ -1,0 +1,20 @@
+{
+  "name": "jalix-moderation",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "jalix",
+  "license": "ISC",
+  "dependencies": {
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.6.0",
+    "klaw": "^4.0.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.9",
+    "path": "^0.12.7",
+    "pretty-ms": "^7.0.1"
+  }
+}
